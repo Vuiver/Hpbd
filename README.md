@@ -70,3 +70,6 @@ const CARD_CONFIG = {
 - **Chạm tương tác:** Chạm vào bất kỳ lời chúc hay hộp quà nào để bắn pháo hoa Confetti và nghe tiếng pop vui tai.
 - **Âm thanh thông minh:** Tự động phát hoặc chạm nhẹ màn hình để bật nhạc Happy Birthday.
 - **Hiển thị hoàn hảo:** Chữ to rõ nét, viền Neon lộng lẫy, tương thích 100% trên iPhone, Android và Desktop.
+
+Bản Hpbd đã thay ảnh Chị Huyền Trần và sửa đường dẫn ảnh nền/nhạc.
+
